@@ -1,0 +1,7 @@
+torch
+transformers==4.36.2
+accelerate
+sentence_transformers
+einops
+langchain
+langchain-community
